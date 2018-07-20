@@ -1,0 +1,41 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.maincontent{
+    text-align: center; 
+    max-width: 800px;
+    margin: 0 auto;
+    padding-top: 250px;
+}
+
+.btn{
+    background-color: #1BA39C;
+    max-width: 150px;
+    color: white;
+    line-height: 35px;
+    border-radius: 20px;
+    margin: 0 auto; 
+}   
+
+.btn:hover{
+    cursor: pointer;
+}
+
+.center{
+    background-color: #F03434;
+    height: 270px;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+.h1{
+    max-width: 500px;
+    margin: 0 auto; 
+    color: white;
+    padding-top: 25px;
+}
+
+.wrapper{
+    padding-top: 10px;
+}
